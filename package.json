@@ -1,9 +1,6 @@
 {
   "name": "chat-sample-web",
   "version": "1.0.0",
-    "engines": {
-    "node": "v8.12.0"
-  }
   "description": "The chat sample app is a mobile app that demonstrates communication with the Oracle Intelligent Bots server.",
   "author": "Oracle Bots Client SDK Team",
   "contributors": [
